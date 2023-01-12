@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+* {
+  padding: 10px;
+}
+body {
+  background-image: url(Assets/images/fundo_marca.png);
+  background-repeat: repeat;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
